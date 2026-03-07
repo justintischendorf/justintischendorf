@@ -1,5 +1,22 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Justin" alt="Hi, I'm Justin"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Computer%20Science%20Student-0d1117?style=for-the-badge&logoColor=white"/>
+<a href="https://www.huk.de">
+<img src="https://img.shields.io/badge/@%20HUK--COBURG-58A6FF?style=for-the-badge&logoColor=white"/>
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%9A%80+Tech+Stack" alt="Tech Stack"/>
 
 </div>
