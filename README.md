@@ -16,7 +16,7 @@
 
 <table width="100%">
 <tr>
-<td align="center" width="50%">
+<td align="center" valign="top" width="50%">
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24"/> Languages
 
@@ -33,7 +33,7 @@
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" valign="top" width="50%">
 
 ### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="24"/> Runtime & Package Managers
 
@@ -51,7 +51,7 @@
 </tr>
 
 <tr>
-<td align="center">
+<td align="center" valign="top">
 
 ### <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="24"/> Frameworks
 
@@ -71,7 +71,7 @@
 
 </td>
 
-<td align="center">
+<td align="center" valign="top">
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24"/> Databases
 
@@ -89,7 +89,7 @@
 </tr>
 
 <tr>
-<td align="center">
+<td align="center" valign="top">
 
 ### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="24"/> DevOps
 
@@ -106,7 +106,7 @@
 
 </td>
 
-<td align="center">
+<td align="center" valign="top">
 
 ### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="24"/> Tools
 
