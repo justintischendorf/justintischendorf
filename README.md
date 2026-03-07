@@ -4,6 +4,12 @@
 
 </div>
 
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
 <div align="center">
 
 <table width="100%">
@@ -138,7 +144,7 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1b4b,50:58a6ff,75:bf91f7,100:0d1117&height=150&section=footer&animation=twinkling" width="100%"/>
 
