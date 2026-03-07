@@ -1,4 +1,8 @@
-## 🚀 Tech Stack
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%9A%80+Tech+Stack" alt="Tech Stack"/>
+
+</div>
 
 <div align="center">
 
@@ -23,7 +27,7 @@
 
 <td align="center" width="50%">
 
-### <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="24"/> Runtime & Package Managers
+### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="24"/> Runtime & Package Managers
 
 <br/>
 
@@ -41,13 +45,13 @@
 <tr>
 <td align="center">
 
-### <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="24"/> Frameworks
+### <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="24"/> Frameworks
 
 <br/>
 
 <img src="https://skillicons.dev/icons?i=angular&theme=dark" height="48"/>
 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/elysiajs/documentation/main/public/assets/elysia.svg" height="48"/>
+<img src="https://avatars.githubusercontent.com/u/132068056?s=48" width="48" height="48"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/quarkus/4695EB" height="48"/>
 
@@ -96,11 +100,18 @@
 
 <td align="center">
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24"/> Tools
+### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="24"/> Tools
 
 <br/>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&perline=4&theme=dark" height="48"/>
+
+<br/><br/>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square\&logo=intellijidea\&logoColor=white)
 
 </td>
 </tr>
@@ -116,7 +127,7 @@
 
 <div align="center">
 
-### 📫 Connect with me
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="24"/> Connect with me
 
 <br/>
 
