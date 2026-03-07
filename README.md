@@ -20,7 +20,7 @@
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24"/> Languages
 
-<br/>
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=ts,java,html,css&perline=4&theme=dark" height="48"/>
 
