@@ -59,7 +59,7 @@
 
 <img src="https://skillicons.dev/icons?i=angular&theme=dark" height="48"/>
 &nbsp;&nbsp;
-<img src="https://avatars.githubusercontent.com/u/132068056?s=48" width="48" height="48"/>
+<img src="https://elysiajs.com/assets/elysia.svg" width="48" height="48"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/quarkus/4695EB" height="48"/>
 
