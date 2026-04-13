@@ -62,7 +62,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=angular&theme=dark" height="48"/>
+<img src="https://skillicons.dev/icons?i=angular,nextjs&theme=dark" height="48"/>
 &nbsp;&nbsp;
 <img src="https://elysiajs.com/assets/elysia.svg" width="48" height="48"/>
 &nbsp;&nbsp;
@@ -71,6 +71,7 @@
 <br/><br/>
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square\&logo=angular\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
 ![ElysiaJS](https://img.shields.io/badge/ElysiaJS-000000?style=flat-square)
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square\&logo=quarkus\&logoColor=white)
 
