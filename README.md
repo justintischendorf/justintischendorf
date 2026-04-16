@@ -62,14 +62,16 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=angular,nextjs,quarkus&theme=dark" height="48"/>
-<img src="https://elysiajs.com/assets/elysia_puffy.png" height="48"/>
+<img src="https://skillicons.dev/icons?i=angular&theme=dark" height="48"/>
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="48"/>
+<img src="https://cdn.simpleicons.org/elysia/white" height="48"/>
+<img src="https://cdn.simpleicons.org/quarkus/4695EB" height="48"/>
 
 <br/><br/>
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![ElysiaJS](https://img.shields.io/badge/ElysiaJS-000000?style=flat-square)
+![ElysiaJS](https://img.shields.io/badge/ElysiaJS-000000?style=flat-square&logo=elysia&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
 
 </td>
@@ -98,12 +100,13 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=docker,turbo&theme=dark" height="48"/>
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" height="48"/>
+<img src="https://cdn.simpleicons.org/turborepo/EF4444" height="48"/>
 
 <br/><br/>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turbo&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
 
 </td>
 
