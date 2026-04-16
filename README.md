@@ -62,10 +62,9 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=angular&theme=dark" height="48"/>
-<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="48"/>
-<img src="https://cdn.simpleicons.org/elysia/white" height="48"/>
-<img src="https://cdn.simpleicons.org/quarkus/4695EB" height="48"/>
+<img src="https://skillicons.dev/icons?i=angular,nextjs&theme=dark" height="48"/>
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=elysia&logoColor=white" height="34"/>
+<img src="https://skillicons.dev/icons?i=quarkus&theme=dark" height="48"/>
 
 <br/><br/>
 
@@ -100,8 +99,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" height="48"/>
-<img src="https://cdn.simpleicons.org/turborepo/EF4444" height="48"/>
+<img src="https://skillicons.dev/icons?i=docker,turbo&theme=dark" height="48"/>
 
 <br/><br/>
 
