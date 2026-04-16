@@ -64,6 +64,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,nextjs&theme=dark" height="48"/>
+  <img src="https://elysiajs.com/assets/elysia.svg" width="48" height="48"/>
   <img src="https://cdn.simpleicons.org/elysia/000000" height="48"/>
   <img src="https://cdn.simpleicons.org/quarkus/4695EB" height="48"/>
 </p>
