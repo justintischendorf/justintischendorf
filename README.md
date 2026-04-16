@@ -62,9 +62,9 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=angular&theme=dark" height="48"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="48"/>&nbsp;
-<img src="https://cdn.simpleicons.org/elysia/white" height="48"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=angular&theme=dark" height="48"/>
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="48"/>
+<img src="https://raw.githubusercontent.com/elysiajs/elysia/main/docs/public/assets/elysia_puffy.png" height="48"/>
 <img src="https://skillicons.dev/icons?i=quarkus&theme=dark" height="48"/>
 
 <br/><br/>
@@ -100,7 +100,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" height="48"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" height="48"/>
 <img src="https://skillicons.dev/icons?i=turbo&theme=dark" height="48"/>
 
 <br/><br/>
