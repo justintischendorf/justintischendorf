@@ -7,6 +7,8 @@
 <img src="https://img.shields.io/badge/@%20HUK--COBURG-58A6FF?style=for-the-badge&logoColor=white"/>
 </a>
 
+<br/>
+
 </div>
 
 <div align="center">
@@ -122,10 +124,6 @@
 </table>
 
 </div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
 
