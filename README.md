@@ -2,11 +2,6 @@
 
 # Hi 👋, I'm Justin
 
-<img src="https://img.shields.io/badge/Computer%20Science%20Student-0d1117?style=for-the-badge&logoColor=white"/>
-<a href="https://www.huk.de">
-<img src="https://img.shields.io/badge/@%20HUK--COBURG-58A6FF?style=for-the-badge&logoColor=white"/>
-</a>
-
 <br/>
 
 </div>
