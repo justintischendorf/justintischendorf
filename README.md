@@ -1,12 +1,14 @@
 <div align="center">
 
-# Hi 👋, I'm Justin
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1b4b,50:58a6ff,75:bf91f7,100:0d1117&height=150&section=header&text=Hi%20👋,%20I'm%20Justin&fontSize=38&fontColor=ffffff&fontAlignY=40" width="100%"/>
 
 </div>
 
-<br/>
+<div align="center">
+
+## 🧰 Tech Stack
+
+</div>
 
 <div align="center">
 
@@ -14,7 +16,7 @@
 <tr>
 <td align="center" valign="top" width="50%">
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24"/> Languages
+### 💻 Languages
 
 <br/>
 
@@ -31,7 +33,7 @@
 
 <td align="center" valign="top" width="50%">
 
-### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="24"/> Runtime & Package Managers
+### ⚙️ Runtime & Package Managers
 
 <br/>
 
@@ -49,7 +51,7 @@
 <tr>
 <td align="center" valign="top">
 
-### <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="24"/> Frameworks
+### 🧩 Frameworks & Libraries
 
 <br/>
 
@@ -65,7 +67,7 @@
 
 <td align="center" valign="top">
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24"/> Databases
+### 🗄️ Databases
 
 <br/>
 
@@ -83,32 +85,59 @@
 <tr>
 <td align="center" valign="top">
 
-### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="24"/> DevOps
+### 🏗️ Build Tools & Monorepo
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" height="48"/>
 <img src="https://cdn.simpleicons.org/turborepo/EF4444" height="48"/>
 
 <br/><br/>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
 
 </td>
 
 <td align="center" valign="top">
 
-### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="24"/> Tools
+### 🐳 Containerization & DevOps
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&perline=4&theme=dark" height="48"/>
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" height="48"/>
+
+<br/><br/>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="top">
+
+### 🔀 Version Control
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git,github&perline=2&theme=dark" height="48"/>
 
 <br/><br/>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</td>
+
+<td align="center" valign="top">
+
+### 🖥️ Editors & IDEs
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=vscode,idea&perline=2&theme=dark" height="48"/>
+
+<br/><br/>
+
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
 
@@ -122,7 +151,7 @@
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="24"/> Connect with me
+## 🔗 Connect with me
 
 <br/>
 
@@ -137,4 +166,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1b4b,50:58a6ff,75:bf91f7,100:0d1117&height=150&section=footer&animation=twinkling" width="100%"/>
 
-</div> 
+</div>
