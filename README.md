@@ -6,12 +6,6 @@
 
 <div align="center">
 
-## 🧰 Tech Stack
-
-</div>
-
-<div align="center">
-
 <table width="100%">
 <tr>
 <td align="center" valign="top" width="50%">
@@ -119,12 +113,13 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=git,github&perline=2&theme=dark" height="48"/>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab&perline=3&theme=dark" height="48"/>
 
 <br/><br/>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
 </td>
 
@@ -150,19 +145,6 @@
 <br/>
 
 <div align="center">
-
-## 🔗 Connect with me
-
-<br/>
-
-<a href="https://github.com/justintischendorf">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://discord.gg/M6Q4wzQR">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1b4b,50:58a6ff,75:bf91f7,100:0d1117&height=150&section=footer&animation=twinkling" width="100%"/>
 
