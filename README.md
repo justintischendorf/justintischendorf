@@ -4,22 +4,22 @@
 
 <table align="center">
   <tr>
-    <th align="left" width="25%">💻 Sprachen</th>
-    <th align="left" width="25%">⚙️ Runtime</th>
-    <th align="left" width="25%">🧩 Frameworks</th>
-    <th align="left" width="25%">🗄️ Datenbanken</th>
+    <th align="left" width="25%">💻&nbsp;Sprachen</th>
+    <th align="left" width="25%">⚙️&nbsp;Runtime</th>
+    <th align="left" width="25%">🧩&nbsp;Frameworks</th>
+    <th align="left" width="25%">🗄️&nbsp;Datenbanken</th>
   </tr>
   <tr>
     <td align="left" valign="top"><img src="https://skillicons.dev/icons?i=ts,java,html,css&perline=2" alt="TypeScript, Java, HTML5, CSS3"/></td>
     <td align="left" valign="top"><img src="https://skillicons.dev/icons?i=nodejs,npm,bun&perline=2" alt="Node.js, npm, Bun"/></td>
-    <td align="left" valign="top"><img src="https://skillicons.dev/icons?i=nextjs,elysia&perline=2" alt="Next.js, ElysiaJS"/></td>
-    <td align="left" valign="top"><img src="https://skillicons.dev/icons?i=postgres,sqlite,redis&perline=2" alt="PostgreSQL, SQLite, Redis"/></td>
+    <td align="left" valign="top"><img src="https://skillicons.dev/icons?i=react,nextjs,elysia,tailwind&perline=2" alt="React, Next.js, ElysiaJS, Tailwind CSS"/></td>
+    <td align="left" valign="top"><img src="assets/databases.svg" alt="PostgreSQL, SQLite, Redis, Prisma"/></td>
   </tr>
   <tr>
-    <th align="left">🏗️ Build</th>
-    <th align="left">🐳 DevOps</th>
-    <th align="left">🔀 Versionierung</th>
-    <th align="left">🖥️ Editoren</th>
+    <th align="left">🏗️&nbsp;Build</th>
+    <th align="left">🐳&nbsp;DevOps</th>
+    <th align="left">🔀&nbsp;Versionierung</th>
+    <th align="left">🖥️&nbsp;Editoren</th>
   </tr>
   <tr>
     <td align="left" valign="top"><img src="assets/turborepo.svg" width="48" alt="Turborepo"/></td>
