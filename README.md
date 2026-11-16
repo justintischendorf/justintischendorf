@@ -4,10 +4,10 @@
 
 <table align="center">
   <tr>
-    <th align="left" width="25%">💻&nbsp;Sprachen</th>
+    <th align="left" width="25%">💻&nbsp;Languages</th>
     <th align="left" width="25%">⚙️&nbsp;Runtime</th>
     <th align="left" width="25%">🧩&nbsp;Frameworks</th>
-    <th align="left" width="25%">🗄️&nbsp;Datenbanken</th>
+    <th align="left" width="25%">🗄️&nbsp;Databases</th>
   </tr>
   <tr>
     <td align="left" valign="top"><img src="https://skillicons.dev/icons?i=ts,java,html,css&perline=2" alt="TypeScript, Java, HTML5, CSS3"/></td>
@@ -18,8 +18,8 @@
   <tr>
     <th align="left">🏗️&nbsp;Build</th>
     <th align="left">🐳&nbsp;DevOps</th>
-    <th align="left">🔀&nbsp;Versionierung</th>
-    <th align="left">🖥️&nbsp;Editoren</th>
+    <th align="left">🔀&nbsp;Version Control</th>
+    <th align="left">🖥️&nbsp;Editors</th>
   </tr>
   <tr>
     <td align="left" valign="top"><img src="assets/turborepo.svg" width="48" alt="Turborepo"/></td>
