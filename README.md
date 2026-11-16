@@ -18,7 +18,7 @@
   <tr>
     <th align="left">🏗️&nbsp;Build</th>
     <th align="left">🐳&nbsp;DevOps</th>
-    <th align="left">🔀&nbsp;Version Control</th>
+    <th align="left">🔀&nbsp;Version&nbsp;Control</th>
     <th align="left">🖥️&nbsp;Editors</th>
   </tr>
   <tr>
